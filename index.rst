@@ -1,5 +1,6 @@
-Welcome to Read The Docs
+Digitális Bölcsészet szeminárium - 2015
 ========================
+#KRE-BTK Bölcsészettudományi Kar
 
 `Read the Docs`_ hosts documentation for the open source community.
 We support Sphinx_ docs written with reStructuredText_ and `CommonMark`_.
